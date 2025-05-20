@@ -1,0 +1,54 @@
+{
+  "glyphs": {
+    "0": {
+      "ha": 600,
+      "x_min": 53,
+      "x_max": 547,
+      "o": "m 300 698 q 159 633 214 698 q 105 454 105 568 q 159 275 105 340 q 300 210 214 210 q 441 275 386 210 q 495 454 495 340 q 441 633 495 568 q 300 698 386 698 m 300 606 q 378 564 349 606 q 407 454 407 522 q 378 344 407 386 q 300 302 349 302 q 222 344 251 302 q 193 454 193 386 q 222 564 193 522 q 300 606 251 606 "
+    },
+    "1": {
+      "ha": 600,
+      "x_min": 168,
+      "x_max": 442,
+      "o": "m 442 0 l 354 0 l 354 604 l 168 604 l 168 671 q 263 686 227 671 q 328 753 299 701 l 442 753 l 442 0 "
+    },
+    "9": {
+      "ha": 600,
+      "x_min": 53,
+      "x_max": 547,
+      "o": "m 300 -8 q 159 57 214 -8 q 105 236 105 121 q 159 415 105 350 q 300 480 214 480 q 441 415 386 480 q 495 236 495 350 q 441 57 495 122 q 300 -8 386 -8 m 300 84 q 378 126 349 84 q 407 236 407 168 q 378 346 407 304 q 300 388 349 388 q 222 346 251 388 q 193 236 193 304 q 222 126 193 168 q 300 84 251 84 "
+    },
+    "₽": {
+      "ha": 600,
+      "x_min": 80,
+      "x_max": 565,
+      "o": "m 80 0 l 80 698 l 329 698 q 450 661 404 698 q 496 559 496 624 q 450 457 496 494 q 329 420 404 420 l 80 420 l 80 349 l 329 349 q 450 312 404 349 q 496 210 496 275 q 450 108 496 145 q 329 71 404 71 l 80 71 l 80 0 m 80 491 l 329 491 q 409 516 379 491 q 439 559 439 541 q 409 602 439 577 q 329 627 379 627 l 168 627 l 168 491 l 80 491 m 80 142 l 329 142 q 409 167 379 142 q 439 210 439 192 q 409 253 439 228 q 329 278 379 278 l 168 278 l 168 142 l 80 142 "
+    }
+  },
+  "familyName": "Inter",
+  "ascender": 969,
+  "descender": -241,
+  "underlinePosition": -100,
+  "underlineThickness": 50,
+  "boundingBox": { "yMin": -555, "xMin": -2778, "yMax": 2163, "xMax": 2778 },
+  "resolution": 1000,
+  "original_font_information": {
+    "format": 0,
+    "copyright": "Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)",
+    "fontFamily": "Inter",
+    "fontSubfamily": "Bold",
+    "uniqueID": "3.19;RSMS;Inter-Bold",
+    "fullName": "Inter Bold",
+    "version": "3.19",
+    "postScriptName": "Inter-Bold",
+    "trademark": "Inter is a trademark of Rasmus Andersson.",
+    "manufacturer": "The Inter Project Authors",
+    "designer": "Rasmus Andersson",
+    "manufacturerURL": "https://rsms.me/",
+    "designerURL": "https://rsms.me/",
+    "licence": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "licenceURL": "http://scripts.sil.org/OFL"
+  },
+  "cssFontWeight": "bold",
+  "cssFontStyle": "normal"
+}
